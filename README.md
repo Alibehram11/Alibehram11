@@ -8,14 +8,3 @@ Twitter hesabım https://twitter.com/alibehram14
 
 
 
-English
-
-
-
-Hello I'm Alibehram
-
-I am interested in technology
-
-My Twitter account is https://twitter.com/alibehram14
-
-My instagram account https://www.instagram.com/alibehramalbayrak/
