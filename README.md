@@ -6,5 +6,4 @@ Twitter hesabım https://twitter.com/alibehram14
 
 İnstegram hesabım https://www.instagram.com/alibehramalbayrak/
 
-https://github.com/Alibehram11/Alibehram11/blob/552733f9eb6604cce9ea3c5b7b4bbd9c3b2b8bb5/README.md
-
+https://classroom.google.com/c/NDI3MTEzMTAwMTAz?cjc=4stwiyh tıkla ve katıl
