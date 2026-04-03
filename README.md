@@ -1,43 +1,52 @@
-# 👋 Hi, I'm Ali Behram  
+# 👋 Hi, I'm Ali Behram
 
-### 🧠 About Me  
-- 💻 I’m learning **Python** and **web development**  
-- 🌱 Exploring **AI**, **education tech**, and **open source**  
-- ✨ Improving my GitHub profile every day  
+🎯 Passionate about building, learning, and improving every day.
 
 ---
 
-### ⚙️ GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alibehram11&show_icons=true&theme=tokyonight)
-
-### 🏆 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alibehram11&layout=compact&theme=tokyonight)
-
----
-
-### 🪶 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🧠 About Me
+- 💻 Learning **Python** & **Web Development**
+- 🤖 Interested in **AI** & **Education Technologies**
+- 🌱 Growing through **open source projects**
+- ⚡ Goal: Build real-world impactful projects
 
 ---
 
-### 🧩 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=Alibehram11&theme=onedark&margin-w=15)
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
 ---
 
-### 🐍 Contribution Snake  
-![snake gif](https://github.com/Alibehram11/Alibehram11/blob/output/github-contribution-grid-snake.svg)
+## ⚙️ GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+## 🏆 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-### 👀 Visitors  
-![visitors](https://komarev.com/ghpvc/?username=Alibehram11&label=PROFILE+VIEWS&color=brightgreen)
+## 🧩 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight)
 
 ---
 
-### 💬 Quote of the Day  
+## 🐍 Contribution Snake
+![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Visitors
+![visitors](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
+
+---
+
+## 💬 Quote of the Day
 > "The best way to learn to code is to build something fun."
+
+---
+
+⭐ *Always building, always learning...*
