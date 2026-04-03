@@ -35,7 +35,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Alibehram11/Alibehram11/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
