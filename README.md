@@ -22,15 +22,15 @@
 ---
 
 ## ⚙️ GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Alibehram11&show_icons=true&theme=tokyonight)
 
 ## 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alibehram11&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🧩 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=Alibehram11&theme=tokyonight)
 
 ---
 
@@ -40,7 +40,7 @@
 ---
 
 ## 👀 Visitors
-![visitors](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
+![visitors](https://komarev.com/ghpvc/?username=Alibehram11&color=blue)
 
 ---
 
