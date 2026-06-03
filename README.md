@@ -1,34 +1,48 @@
 # Ali Behram Albayrak
 
-I build practical Python and web projects with a focus on local tools, AI assistants, educational software, and hardware-adjacent experiments.
+Robotics-focused developer building Python, Arduino/C++, and local AI tools for practical automation and education.
 
-## Featured Work
-
-### [JARVIS](https://github.com/Alibehram11/JARVIS)
-Local Windows assistant powered by LM Studio on `localhost`. It supports voice and type modes, Turkish and English commands, explicit memory, diagnostics, privacy checks, and a safety router that blocks risky shell-like actions.
-
-### [Atolye](https://github.com/Alibehram11/Atolye)
-Flask-based inventory and request tracking app for a robotics workshop. It includes product search, cart-based requests, admin approval flow, SQLite storage, and Excel import.
-
-### [micro-turbine-energy](https://github.com/Alibehram11/micro-turbine-energy)
-Streamlit simulation for estimating micro-turbine energy output in wastewater pipelines. It uses hydropower calculations and Matplotlib charts to make the idea easier to test and explain.
+## Top 3 Projects
 
 ### [Arduino-Car-Library](https://github.com/Alibehram11/Arduino-Car-Library)
-Arduino C++ library for controlling L298N motor drivers and HC-06 Bluetooth modules, with example sketches and hardware setup notes.
 
-## Technical Focus
+**Problem:** Beginner robot-car projects often repeat the same L298N motor-control code and wiring notes.
 
-- Python applications: Flask, Streamlit, automation, local desktop tools
-- Local AI tooling: LM Studio integration, speech input/output, privacy checks
-- Web basics: HTML, CSS, JavaScript, GitHub project documentation
-- Hardware projects: Arduino, motor control, Bluetooth modules
+**Solution:** An Arduino C++ library that wraps dual-motor movement, PWM speed control, and optional HC-06 Bluetooth input into reusable commands.
 
-## What I Am Improving
+**Tech:** Arduino, C++, L298N, HC-06 Bluetooth, embedded motor control.
 
-I am turning learning projects into clearer, more usable portfolio projects: cleaner documentation, safer configuration, stronger demos, and more verifiable project claims.
+**Evidence:** Includes example sketches, hardware notes, API summary, and setup instructions.
 
-## GitHub Stats
+### [Atolye](https://github.com/Alibehram11/Atolye)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Alibehram11&show_icons=true&theme=tokyonight)
+**Problem:** Robotics workshop parts can be hard to track when students request sensors, boards, motors, and tools manually.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alibehram11&layout=compact&theme=tokyonight)
+**Solution:** A Flask inventory and request tracker with search, cart-based requests, admin approval flow, SQLite storage, Excel import, and environment-based credentials.
+
+**Tech:** Python, Flask, SQLite, Excel import, local web app.
+
+**Evidence:** Default admin credentials were removed; setup now uses `.env.example` and environment variables.
+
+### [JARVIS](https://github.com/Alibehram11/JARVIS)
+
+**Problem:** Desktop assistants are useful, but unsafe if they execute model-generated commands directly or send too much data out.
+
+**Solution:** A local-first assistant with LM Studio routing, voice/type modes, explicit safety blocks, privacy checks, diagnostics, and hardware-control scaffolds.
+
+**Tech:** Python, LM Studio, local AI, speech input/output, command routing, Arduino/ESP32 scaffolding.
+
+**Evidence:** Includes a terminal demo GIF, tests, privacy documentation, hardware notes, and a safety model in the README.
+
+## Robotics / Automation Stack
+
+- Embedded: Arduino, C++, L298N motor drivers, HC-06 Bluetooth, ESP32/Arduino scaffolds
+- Backend/tools: Python, Flask, SQLite, Streamlit, command-line applications
+- Local AI: LM Studio, local-first assistant design, safe command routing, privacy checks
+- Documentation: setup guides, hardware notes, security notes, roadmap issues
+
+## Currently Improving
+
+- Turning robotics and automation prototypes into portfolio-ready projects.
+- Adding clearer demos, verification steps, roadmap issues, and release tags.
+- Keeping learning repositories public but moving the main profile signal toward robotics, automation, and practical local tools.
